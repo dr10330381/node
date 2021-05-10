@@ -1,4 +1,4 @@
-{{
+{
   "name": "appengine-typescript",
   "description": "An example TypeScript app running on Google App Engine.",
   "version": "0.0.1",
